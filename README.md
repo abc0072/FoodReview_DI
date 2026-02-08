@@ -35,8 +35,7 @@ Se han desarrollado dos versiones del prototipo:
 
 El prototipo incluye navegación completa entre pantallas, uso de componentes reutilizables y un flujo de uso coherente.
 
-🔗 Enlace al prototipo en Figma:
-(añade aquí tu enlace de Figma)
+🔗 Enlace al prototipo en Figma: https://silver-remote-38842004.figma.site
 
 # 🧪 Pruebas de usabilidad
 
