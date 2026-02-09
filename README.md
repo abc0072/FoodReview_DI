@@ -40,7 +40,7 @@ El prototipo incluye navegación completa entre pantallas, uso de componentes re
 # 🧪 Pruebas de usabilidad
 
 Las pruebas de usabilidad se realizaron sobre el prototipo v1 con cinco personas externas al grupo, sin proporcionar instrucciones previas.
-Durante las pruebas, los usuarios realizaron tareas como iniciar sesión, crear y editar reseñas, consultar detalles y utilizar el chat.
+Durante las pruebas, los usuarios realizaron tareas como iniciar sesión, crear, editar o borrar reseñas, consultar detalles y utilizar el chat.
 
 Se analizaron aspectos como:
 
