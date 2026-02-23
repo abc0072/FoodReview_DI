@@ -52,6 +52,8 @@ Se analizaron aspectos como:
 
 Los resultados permitieron detectar áreas de mejora que se aplicaron posteriormente en el rediseño del prototipo.
 
+Enlace a Formulario de Usabilidad: https://docs.google.com/forms/d/e/1FAIpQLSfuovjX4TwJwpluHEhVuWjBeWEVVBovf6BR60ESuWDrru3ndw/viewform?usp=header
+
 # 🔄 Rediseño y mejoras aplicadas
 
 A partir de las pruebas de usabilidad, se implementaron varias mejoras en el prototipo v2, entre ellas:
